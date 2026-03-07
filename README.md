@@ -1,4 +1,4 @@
-# 👋 Hi I'm AMIT
+# 👋 Hi I'm AMIT RANA
 
 Engineering student building frontend + backend systems.
 
