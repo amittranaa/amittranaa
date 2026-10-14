@@ -8,7 +8,7 @@ Engineering student building frontend + backend systems.
 
 💬 Ask me about React.js, java script
 
-📫 How to reach me astudiopresents@gmail.com
+📫 How to reach me hello@amitrana.tech
 
 📄 Know about my experiences https://www.linkedin.com/in/amit-rana-472544390/
 ## Frontend
